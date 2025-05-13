@@ -28,6 +28,7 @@
     ```bash
     npm install
     pip install flask
+    ```
 
 3. Создать базу данных
 
